@@ -4,7 +4,6 @@
   def initialize(total)
     total = 0
     @total = total
-    
-    items= []
+    @items= []
     
   end
