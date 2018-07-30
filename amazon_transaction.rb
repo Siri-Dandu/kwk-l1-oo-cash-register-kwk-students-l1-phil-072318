@@ -2,8 +2,7 @@
   
   class AmazonTransaction
   def initialize(total)
-    total = 0
-    @total = total
+    @total = 0
     @items= []
   end
   end
