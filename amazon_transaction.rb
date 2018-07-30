@@ -2,8 +2,7 @@
   
   Class AmazonTransaction
   def initialize(total)
-
-    @total = total
     total = 0
+    @total = total
     
   end
