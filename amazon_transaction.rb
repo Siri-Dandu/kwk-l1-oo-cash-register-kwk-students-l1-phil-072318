@@ -1,6 +1,6 @@
 # Code your calculator here.
   
-  Class AmazonTransaction
+  class AmazonTransaction
   def initialize(total)
     total = 0
     @total = total
